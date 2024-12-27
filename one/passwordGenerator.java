@@ -1,4 +1,4 @@
-package two;
+package one;
 
 import javax.swing.*;  		//JFrame,JButton,JTextField,JLabel,imageicon
 import javax.swing.border.Border;
